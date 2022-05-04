@@ -67,10 +67,9 @@ nav{
             text-align: center;
             background-color: orange;
             height: 20px;
-            position: absolute;
             bottom: 0px;
-            padding-left: 150px;
             width: 100%;
+            margin-top: 10px;
         }
 
         p{
@@ -88,5 +87,7 @@ nav{
         }
         .contenedorImagen{
             width: 100%;
-            text-align: left;
+            text-align: center;
         }
+
+        
